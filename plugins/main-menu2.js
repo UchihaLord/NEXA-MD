@@ -42,7 +42,7 @@ let str = `
 🌠 *_Xlicon team quote of the day: ${quote}_* 🌠
 
 ┏━━🤖 _BOT STATUS:_🤖━━┓
-┃ 🏮  *Founder:* Salman Ahmad
+┃ 🏮  *Founder:* NEXA 📜
 ┃ 🤡  *Bot Name:* ${botname} 
 ┃ 💻  *Host:* Kali Linix
 ┃ 📣  *Prefix:* ${usedPrefix} 
