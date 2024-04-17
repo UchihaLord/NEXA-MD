@@ -3,7 +3,7 @@
 <br>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20NEXA-V1-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20SALMAN%20AHMAD)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20NEXA-V1-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20NEXA%20AI)
 <p align="center">
   
 >NEXA-V1-MD is based on :
@@ -21,11 +21,11 @@ NEXA-V1 is a versatile Multi-Device WhatsApp bot developed by [NEXA Henry](https
 <p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V2}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
 
 ### **Bot Statistics**
-![Bot Repository Size](https://img.shields.io/github/repo-size/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Issues](https://img.shields.io/github/issues/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Stars](https://img.shields.io/github/stars/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Forks](https://img.shields.io/github/forks/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Watchers](https://img.shields.io/github/watchers/salmanytofficial/XLICON-V2-MD?label=Watchers&style=for-the-badge)
+![Bot Repository Size](https://img.shields.io/github/repo-size/henrygokugt99/NEXA-MD?style=for-the-badge)
+![Bot Repository Issues](https://img.shields.io/github/issues/henrygokugt99/NEXA-MD?style=for-the-badge)
+![Bot Repository Stars](https://img.shields.io/github/stars/henrygokugt99/NEXA-MD?style=for-the-badge)
+![Bot Repository Forks](https://img.shields.io/github/forks/henrygokugt99/NEXA-MD?style=for-the-badge)
+![Bot Repository Watchers](https://img.shields.io/github/watchers/henrygokugt99/NEXA-MD?label=Watchers&style=for-the-badge)
 ![Bot Repository Contributors](https://img.shields.io/github/contributors/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
 ![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
 ![Bot Repository License](https://img.shields.io/github/license/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
