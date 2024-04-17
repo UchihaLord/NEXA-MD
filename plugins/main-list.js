@@ -10,15 +10,15 @@ let handler = async (m, { conn, usedPrefix, command}) => {
       switch (command) {
         case 'list':
 lkr = "*Get excited, here are your options:*\n\n" +
-"🤖 *" + usedPrefix + "botmenu* - The Bot's secret control panel. What's your command, oh great one?\n\n" +
-"👑 *" + usedPrefix + "ownermenu* - The sacred scroll only for the chosen one. Yep, that's you, Boss!\n\n" +    
+"📜 *" + usedPrefix + "botmenu* - The Bot's secret control panel. What's your command, oh great one?\n\n" +
+"📋 *" + usedPrefix + "ownermenu* - The sacred scroll only for the chosen one. Yep, that's you, Boss!\n\n" +    
 "🧑‍🤝‍🧑 *" + usedPrefix + "groupmenu* - Group shenanigans central! Unite, chat, conquer!\n\n" +  
 "📥 *" + usedPrefix + "dlmenu* - 'DL' stands for 'Delicious Loot'. Come grab your goodies!\n\n" +   
 "🎉 *" + usedPrefix + "funmenu* - The bot's party hat. Games, jokes and instant ROFLs. Let's get this party started!\n\n" +   
-"💰 *" + usedPrefix + "economymenu* - Bling bling! Your personal vault of virtual economy. Spend or save? Choose wisely!\n\n" +    
+"🦁 *" + usedPrefix + "economymenu* - Bling bling! Your personal vault of virtual economy. Spend or save? Choose wisely!\n\n" +    
 "🎮 *" + usedPrefix + "gamemenu* - Enter the gaming arena. May the odds be ever in your favor!\n\n" +     
 "🎨 *" + usedPrefix + "stickermenu* - A rainbow of stickers for your inner artist. Make your chats pop!\n\n" +    
-"🧰 *" + usedPrefix + "toolmenu* - Your handy-dandy toolkit. What's your pick, genius?\n\n" +    
+"🛠️ *" + usedPrefix + "toolmenu* - Your handy-dandy toolkit. What's your pick, genius?\n\n" +    
 "🎩 *" + usedPrefix + "logomenu* - Create a logo that screams YOU. Or whispers. You choose the volume.\n\n" +    
 "🌙 *" + usedPrefix + "nsfwmenu* - The After Dark menu. But remember, sharing adult secrets must be consent-based.";
 break;
@@ -30,51 +30,51 @@ break;
         case 'botmenu':
           lkr = `
 ╭─────────────────⍟
-┃  Xlicon 𝘽𝙊𝙏 𝙈𝙀𝙉𝙐  
-╰───Xlicon─────────⍟   
+┃  NEXA-MD 𝘽𝙊𝙏 𝙈𝙀𝙉𝙐  
+╰─── NEXA ─────────⍟   
 
 ┏━━━ʕ•㉨•ʔ━━━
-┃➣🗂️ _${usedPrefix}gita_
-┃➣🗂️ _${usedPrefix}ping_
-┃➣🗂️ _${usedPrefix}uptime_
-┃➣🗂️ _${usedPrefix}bot_
-┃➣🗂️ _${usedPrefix}owner_
-┃➣🗂️ _${usedPrefix}script_
-┃➣🗂️ _${usedPrefix}runtime_
-┃➣🗂️ _${usedPrefix}infobot_
-┃➣🗂️ _${usedPrefix}donate_
-┃➣🗂️ _${usedPrefix}groups_
-┃➣🗂️ _${usedPrefix}blocklist_
-┃➣🗂️ _${usedPrefix}listprem_
-┃➣    *_XLICON-V2_*
+┃➣📜 _${usedPrefix}gita_
+┃➣📜 _${usedPrefix}ping_
+┃➣📜 _${usedPrefix}uptime_
+┃➣📜 _${usedPrefix}bot_
+┃➣📜 _${usedPrefix}owner_
+┃➣📜 _${usedPrefix}script_
+┃➣📜 _${usedPrefix}runtime_
+┃➣📜 _${usedPrefix}infobot_
+┃➣📜 _${usedPrefix}donate_
+┃➣📜 _${usedPrefix}groups_
+┃➣📜 _${usedPrefix}blocklist_
+┃➣📜 _${usedPrefix}listprem_
+┃➣    *_NEXA-V1_*
 ┗━━━ʕ•㉨•ʔ━━━┛`; // Your bot menu message here
           break;
         case 'ownermenu':
           lkr = `
 ╭─────────────────⍟
-┃ Xlicon 𝙊𝙒𝙉𝙀𝙍 𝙈𝙀𝙉𝙐  
-╰───Xlicon─────────⍟
+┃ NEXA-MD 𝙊𝙒𝙉𝙀𝙍 𝙈𝙀𝙉𝙐  
+╰─── NEXA ─────────⍟
 
 ┏━━━ʕ•㉨•ʔ━━━┓
-┃➣📁 _${usedPrefix}banchat_
-┃➣📁 _${usedPrefix}unbanchat_
-┃➣📁 _${usedPrefix}banuser_
-┃➣📁 _${usedPrefix}unbanuser_
-┃➣📁 _${usedPrefix}Broadcast_
-┃➣📁 _${usedPrefix}Broadcastgc_
-┃➣📁 _${usedPrefix}join_
-┃➣📁 _${usedPrefix}setppbot_
-┃➣📁 _${usedPrefix}setprefix_
-┃➣📁 _${usedPrefix}resetprefix_
-┃➣📁 _${usedPrefix}getfile_
-┃➣📁 _${usedPrefix}getplugin_
+┃➣📋 _${usedPrefix}banchat_
+┃➣📋 _${usedPrefix}unbanchat_
+┃➣📋 _${usedPrefix}banuser_
+┃➣📋 _${usedPrefix}unbanuser_
+┃➣📋 _${usedPrefix}Broadcast_
+┃➣📋 _${usedPrefix}Broadcastgc_
+┃➣📋 _${usedPrefix}join_
+┃➣📋 _${usedPrefix}setppbot_
+┃➣📋 _${usedPrefix}setprefix_
+┃➣📋 _${usedPrefix}resetprefix_
+┃➣📋 _${usedPrefix}getfile_
+┃➣📋 _${usedPrefix}getplugin_
 ┗━━━ʕ•㉨•ʔ━━━┛`; // 
           break;
           case 'groupmenu':
           lkr = `
 ╭─────────────────⍟
-┃ Xlicon 𝙂𝙍𝙊𝙐𝙋 𝙈𝙀𝙉𝙐 
-╰───Xlicon─────────⍟
+┃ NEXA-MD 𝙂𝙍𝙊𝙐𝙋 𝙈𝙀𝙉𝙐 
+╰─── NEXA ─────────⍟
 
 ┏━━━ʕ•㉨•ʔ━━━┓🤖
 ┃➣👾_${usedPrefix}kick *<@tag>*_
@@ -99,8 +99,8 @@ break;
             case 'dlmenu' :
           lkr = `
 ╭─────────────────⍟
-┃ Xlicon 𝘿𝙇📱 𝙈𝙀𝙉𝙐 
-╰───Xlicon─────────⍟
+┃ NEXA 𝘿𝙇📱 𝙈𝙀𝙉𝙐 
+╰─── NEXA ─────────⍟
 
 ┏━━━ʕ•㉨•ʔ━━━┓
 ┃➣📡 _${usedPrefix}play_
@@ -125,34 +125,34 @@ break;
           case 'economymenu':
           lkr = `
 ╭─────────────────⍟
-┃Xlicon 𝙀𝘾𝙊𝙉𝙊𝙈𝙔 
-╰───Xlicon─────────⍟
+┃NEXA-MD 𝙀𝘾𝙊𝙉𝙊𝙈𝙔 
+╰─── NEXA ─────────⍟
 
 ┏━━━ʕ•㉨•ʔ━━━┓
-┃➣👑 _${usedPrefix}claim/daily_
-┃➣👑 _${usedPrefix}weekly_
-┃➣👑 _${usedPrefix}monthly_
-┃➣👑 _${usedPrefix}leaderboard_
-┃➣👑 _${usedPrefix}bet_
-┃➣👑 _${usedPrefix}heal_
-┃➣👑 _${usedPrefix}craft_
-┃➣👑 _${usedPrefix}balance_
-┃➣👑 _${usedPrefix}shop_
-┃➣👑 _${usedPrefix}sell_
-┃➣👑 _${usedPrefix}adventure_
-┃➣👑 _${usedPrefix}opencrate_
-┃➣👑 _${usedPrefix}mine_
-┃➣👑 _${usedPrefix}work_
-┃➣👑 _${usedPrefix}transfer_
-┃➣👑 _${usedPrefix}todiamond_
-┃➣👑 _${usedPrefix}tomoney_
+┃➣🦁 _${usedPrefix}claim/daily_
+┃➣🦁 _${usedPrefix}weekly_
+┃➣🦁 _${usedPrefix}monthly_
+┃➣🦁 _${usedPrefix}leaderboard_
+┃➣🦁 _${usedPrefix}bet_
+┃➣🦁 _${usedPrefix}heal_
+┃➣🦁 _${usedPrefix}craft_
+┃➣🦁 _${usedPrefix}balance_
+┃➣🦁 _${usedPrefix}shop_
+┃➣🦁 _${usedPrefix}sell_
+┃➣🦁 _${usedPrefix}adventure_
+┃➣🦁 _${usedPrefix}opencrate_
+┃➣🦁 _${usedPrefix}mine_
+┃➣🦁 _${usedPrefix}work_
+┃➣🦁 _${usedPrefix}transfer_
+┃➣🦁 _${usedPrefix}todiamond_
+┃➣🦁 _${usedPrefix}tomoney_
 ┗━━━ʕ•㉨•ʔ━━━┛`; // 
           break;
           case 'funmenu':
           lkr = `
 ╭─────────────────⍟
-┃ Xlicon 𝙁𝙐𝙉 𝙈𝙀𝙉𝙐
-╰───Xlicon─────────⍟
+┃ NEXA-MD 𝙁𝙐𝙉 𝙈𝙀𝙉𝙐
+╰─── NEXA ─────────⍟
 
 ┏━━━ʕ•㉨•ʔ━━━┓
 ┃➣👻 _${usedPrefix}character_
@@ -173,8 +173,8 @@ break;
           case 'animemenu':
           lkr = `
 ╭─────────────────⍟
-┃ Xlicon 𝐴𝑁𝐼𝑀𝐸 𝑀𝐸𝑁𝑈
-╰───Xlicon─────────⍟
+┃ NEXA-MD 𝐴𝑁𝐼𝑀𝐸 𝑀𝐸𝑁𝑈
+╰───NEXA_MD────────⍟
 
 ┏━━━ʕ•㉨•ʔ━━━┓
 ┃➣❄️ _${usedPrefix}waifu_
@@ -219,8 +219,8 @@ break;
           case 'gamemenu':
           lkr = `
 ╭─────────────────⍟
-┃ Xlicon 𝙂𝘼𝙈𝙀 𝙈𝙀𝙉𝙐 
-╰───Xlicon─────────⍟
+┃ NEXA-MD 𝙂𝘼𝙈𝙀 𝙈𝙀𝙉𝙐 
+╰─── NEXA ─────────⍟
 
 ┏━━━ʕ•㉨•ʔ━━━┓
 ┃➣🎮 _${usedPrefix}tictactoe_
@@ -237,8 +237,8 @@ break;
           case 'stickermenu':
           lkr = `
 ╭─────────────────⍟
-┃ Xlicon 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 𝙈𝙀𝙉𝙐
-╰───Xlicon─────────⍟
+┃ NEXA-MD 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 𝙈𝙀𝙉𝙐
+╰─── NEXA ─────────⍟
 
 ┏━━━ʕ•㉨•ʔ━━━┓
 ┃➣👾 _${usedPrefix}sticker_
@@ -306,7 +306,7 @@ break;
 ┃⬡▸ .pokedex <pokemon>
 ┃⬡▸ .trace
 >-----------------------<
-┃ -MADE BY XLICON -TEAM
+┃ -MADE BY NEXA -AI
 >-----------------------<
 ╰─────────────────⦿
 `; 
@@ -318,40 +318,40 @@ break;
           case 'toolmenu':
           lkr = `
 ╭─────────────────⍟
-┃ Xlicon 𝙏𝙊𝙊𝙇𝙎 𝙈𝙀𝙉𝙐
-╰───Xlicon─────────⍟
+┃ NEXA-MD 𝙏𝙊𝙊𝙇𝙎 𝙈𝙀𝙉𝙐
+╰─── NEXA ─────────⍟
 
 ┏━━━ʕ•㉨•ʔ━━━┓
-┃➣🧰 _${usedPrefix}autosticker_
-┃➣🧰 _${usedPrefix}pdf_
-┃➣🧰 _${usedPrefix}whatmusic_
-┃➣🧰 _${usedPrefix}calc_
-┃➣🧰 _${usedPrefix}google_
-┃➣🧰 _${usedPrefix}lyrics_
-┃➣🧰 _${usedPrefix}readmore_
-┃➣🧰 _${usedPrefix}ssweb_
-┃➣🧰 _${usedPrefix}tts_
-┃➣🧰 _${usedPrefix}translate_
-┃➣🧰 _${usedPrefix}tourl_
-┃➣🧰 _${usedPrefix}wikipedia_
-┃➣🧰 _${usedPrefix}nowa_
-┃➣🧰 _${usedPrefix}qrmaker_
-┃➣🧰 _${usedPrefix}readqr_
-┃➣🧰 _${usedPrefix}fancy_
-┃➣🧰 _${usedPrefix}weather_
-┃➣🧰 _${usedPrefix}siri_
-┃➣🧰 _${usedPrefix}alexa_
-┃➣🧰 _${usedPrefix}dalle_
-┃➣🧰 _${usedPrefix}tocartoon_
-┃➣🧰 _${usedPrefix}quote_
-┃➣🧰 _${usedPrefix}technews_
-┃➣🧰 _${usedPrefix}define_
-┃➣🧰 _${usedPrefix}pokedex_
-┃➣🧰 _${usedPrefix}removebg_
-┃➣🧰 _${usedPrefix}apk_
-┃➣🧰 _${usedPrefix}tinyurl/shorturl_
-┃➣🧰 _${usedPrefix}readvo_
-┃➣🧰 _${usedPrefix}true_
+┃➣🛠️ _${usedPrefix}autosticker_
+┃➣🛠️ _${usedPrefix}pdf_
+┃➣🛠️ _${usedPrefix}whatmusic_
+┃➣🛠️ _${usedPrefix}calc_
+┃➣🛠️ _${usedPrefix}google_
+┃➣🛠️ _${usedPrefix}lyrics_
+┃➣🛠️ _${usedPrefix}readmore_
+┃➣🛠️ _${usedPrefix}ssweb_
+┃➣🛠️ _${usedPrefix}tts_
+┃➣🛠️ _${usedPrefix}translate_
+┃➣🛠️ _${usedPrefix}tourl_
+┃➣🛠️ _${usedPrefix}wikipedia_
+┃➣🛠️ _${usedPrefix}nowa_
+┃➣🛠️ _${usedPrefix}qrmaker_
+┃➣🛠️ _${usedPrefix}readqr_
+┃➣🛠️ _${usedPrefix}fancy_
+┃➣🛠️ _${usedPrefix}weather_
+┃➣🛠️ _${usedPrefix}siri_
+┃➣🛠️ _${usedPrefix}alexa_
+┃➣🛠️ _${usedPrefix}dalle_
+┃➣🛠️ _${usedPrefix}tocartoon_
+┃➣🛠️ _${usedPrefix}quote_
+┃➣🛠️ _${usedPrefix}technews_
+┃➣🛠️ _${usedPrefix}define_
+┃➣🛠️ _${usedPrefix}pokedex_
+┃➣🛠️ _${usedPrefix}removebg_
+┃➣🛠️ _${usedPrefix}apk_
+┃➣🛠️ _${usedPrefix}tinyurl/shorturl_
+┃➣🛠️ _${usedPrefix}readvo_
+┃➣🛠️ _${usedPrefix}true_
 ┗━━━ʕ•㉨•ʔ━━━┛`; // 
           break;
           case 'nsfwmenu':
