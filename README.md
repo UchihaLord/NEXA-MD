@@ -26,17 +26,17 @@ NEXA-V1 is a versatile Multi-Device WhatsApp bot developed by [NEXA Henry](https
 ![Bot Repository Stars](https://img.shields.io/github/stars/henrygokugt99/NEXA-MD?style=for-the-badge)
 ![Bot Repository Forks](https://img.shields.io/github/forks/henrygokugt99/NEXA-MD?style=for-the-badge)
 ![Bot Repository Watchers](https://img.shields.io/github/watchers/henrygokugt99/NEXA-MD?label=Watchers&style=for-the-badge)
-![Bot Repository Contributors](https://img.shields.io/github/contributors/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository License](https://img.shields.io/github/license/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
+![Bot Repository Contributors](https://img.shields.io/github/contributors/henrygokugt99/NEXA-MD?style=for-the-badge)
+![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/henrygokugt99/NEXA-MD?style=for-the-badge)
+![Bot Repository License](https://img.shields.io/github/license/henrygokugt99/NEXA-MD?style=for-the-badge)
 
 ####  
-*XLICON-V2* - A Advanced Multi Device whatsapp bot Based on *GURU-BOT*
+*NEXA-V1* - A Advanced Multi Device whatsapp bot Based on *GURU-BOT*
 
 ***
 
 ## ⭐ `Star This Repo`
-If you find XLICON-V2-MD helpful, consider giving it a star ⭐ to show your appreciation.
+If you find NEXA-V1-MD helpful, consider giving it a star ⭐ to show your appreciation.
 
 Thanks to all contributors! 🚀
 
@@ -57,7 +57,7 @@ Thanks to all contributors! 🚀
 ## 🛠️ `Installation Methods`
 1. Fork the repo
     <br>
-<a href='https://github.com/salmanytofficial/XLICON-V2-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/henrygokugt99/NEXA-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
