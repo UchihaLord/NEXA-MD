@@ -21,25 +21,25 @@ import {
 *REMEMBER THIS BOT IS FOR*
 *EDUCATIONAL PERPOSES*
 ⍟────────────────⍟
-*©Salman Ahmand*
+*©₦ɆӾ₳▂ ▄ ▅ ▆ ▇ █*
 ⍟────────────────⍟
-*_Konnichiwa! Its XLICON-MD A_* 
+*_Konnichiwa! Its ⦕𝘕𝘌𝘟𝘈⦖-MD A_* 
 *_Multi-Device Whatsapp BOT_*
-*_Recoded By Salman Ahmad And Abraham Dwamena_*
+*_Recoded By ₦ɆӾ₳▂ ▄ ▅ ▆ ▇ █_*
 ⍟────────────────⍟
-                                    
- ▀▄▀ █░░ █ █▀▀ █▀█ █▄░█  
- █░█ █▄▄ █ █▄▄ █▄█ █░▀█  
-          
- █▀▄▀█ █▀▄
- █░▀░█ █▄▀
- 
+ pls read carefully wise men                                   
+ .....................
+ ⫷(⌐■_■) 𝑵𝑬𝑿𝑨-𝑴𝑫⫸
+ .....................        
+ it is better to delay 
+ something than not 
+ doing it at all......
 ╭─────────────────⦿
-┃    🔰〘 𝙄𝙉𝙁𝙊 〙🔰
+┃    📜〘 𝙄𝙉𝙁𝙊 〙📜
 ╰┬────────────────⦿
 ┌┤
 ┃
-┃ *_Founder_*: Salman Ahmad 
+┃ *_Founder_*: ₦ɆӾ₳▂ ▄ ▅ ▆ ▇ █ 
 ┃ *_Bot Name_*: ${botname}
 ┃ *_Mode_*: %mode
 ┃ *_HOST_*: kali Linix
@@ -51,20 +51,20 @@ import {
 ┃
 ╰──────────────────⦿
 ╭──────────────────⦿
-┃    🔰〘 𝙐𝙎𝙀𝙍 〙🔰
+┃    📜〘 𝙐𝙎𝙀𝙍 〙📜
 ╰┬─────────────────⦿
 ┌┤     
 ┃
 ┃ *_Name_*: %name
 ┃ *_Gold_*: %credit
-┃ *_Role_*: XLICON-MD-TESTER
+┃ *_Role_*: ⦕𝘕𝘌𝘟𝘈⦖-MD-TESTER
 ┃ *_Level_*: %level [ %xp4levelup Xp For Levelup]
 ┃ *_Xp_*: %exp / %maxexp
 ┃ *_Total Xp_*: %totalexp
 ┃
 ╰──────────────────⦿
 ╭──────────────────⦿
-┃   🔰〘 𝑰𝑵𝑭𝑶 𝑪𝑴𝑫 〙🔰
+┃   📜〘 𝑰𝑵𝑭𝑶 𝑪𝑴𝑫 〙📜
 ╰┬─────────────────⦿
 ┌┤ 
 ┃ *_%totalfeatures_* Commands
