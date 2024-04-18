@@ -12,7 +12,7 @@ import cfonts from 'cfonts';
 
 const { say } = cfonts;
 
-say("XLICON - V2", {
+say("NEXA - V1", {
   'font': "block",
   'align': "center",
   'colors': ['#ff9900'],
@@ -23,7 +23,7 @@ say("XLICON - V2", {
   'maxLength': '15'
 });
 
-say("Xlicon-BOT-V2 By Salman._.", {
+say("NEXA-BOT-V1 By Henry._.", {
   'font': "chrome",
   'align': "center",
   'colors': ["red", "magenta"],
