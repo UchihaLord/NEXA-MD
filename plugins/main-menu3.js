@@ -36,7 +36,7 @@ let greeting = ucapan()
 let quote = quotes[Math.floor(Math.random() * quotes.length)];
 
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = ` *☑️ XLICON -V2 BOT☑️*
+let str = ` *✅ NEXA -V1 BOT✅*
 
 
 ╭◦⭑⭑⭑★✪ MENU-3 ✪★⭑⭑⭑➛
@@ -47,14 +47,14 @@ let str = ` *☑️ XLICON -V2 BOT☑️*
 │💌 ◦➛✫ - 「${usedPrefix}𝘉𝘰𝘵𝘮𝘦𝘯𝘶 
 │🧬 ◦➛✫ - 「${usedPrefix}𝘎𝘳𝘰𝘶𝘱𝘮𝘦𝘯𝘶
 │📥 ◦➛✫ - 「${usedPrefix}𝘋𝘭𝘮𝘦𝘯𝘶
-│🧰 ◦➛✫ - 「${usedPrefix}𝘛𝘰𝘰𝘭𝘮𝘦𝘯𝘶
+│🛠️ ◦➛✫ - 「${usedPrefix}𝘛𝘰𝘰𝘭𝘮𝘦𝘯𝘶
 │🎨 ◦➛✫ - 「${usedPrefix}𝘚𝘵𝘪𝘤𝘬𝘦𝘳𝘮𝘦𝘯𝘶
 │🎉 ◦➛✫ - 「${usedPrefix}𝘍𝘶𝘯𝘮𝘦𝘯𝘶 
 │🎮 ◦➛✫ - 「${usedPrefix}𝘎𝘢𝘮𝘦𝘮𝘦𝘯𝘶
 │🎩 ◦➛✫ - 「${usedPrefix}𝘓𝘰𝘨𝘰𝘮𝘦𝘯𝘶
 │ *${usedPrefix}list ғᴏʀ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛ*
 │ *${greeting}*
-│ *MADE BY XLICON TEAM*
+│ *MADE BY DEV TEAM*
 ╰━━━━━━━━━━━━━━━━━━╯
 📚 *_Quote of the day: ${quote}_* 📚
 `
