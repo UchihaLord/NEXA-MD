@@ -1,4 +1,4 @@
-# Guru-bot Termux-Hosting-Guide
+# NEXA-bot Termux-Hosting-Guide
 
 ##  Prerequisites
 
@@ -12,7 +12,7 @@
 
  Run the following commands to clone the repo (Use your fork)
  ```SH
-> git clone https://github.com/salmanytofficial/XLICON-V2-MD
+> git clone https://github.com/henrygokugt99/NEXA-MD
 > cd XLICON-V2-MD
  ```
 
@@ -29,4 +29,4 @@
  Running the above command will start the bot. To authenticate scan the QR which shows up in the terminal using the WA-Web Scanner on your WhatsApp . Good Luck!
 
 
- [Set it up on Heroku](https://github.com/salmanytofficial/XLICON-V2-MD/blob/master/Heroku-Hosting-Guide.md)
+ [Set it up on Heroku](https://github.com/henrygokugt99/NEXA-MD/blob/master/Heroku-Hosting-Guide.md)
