@@ -37,5 +37,5 @@ export default handler
 
 
 /**
- *  THANKS TO Abraham Dwamena 😇 & @SuhailTechInfo ------ hehe 
+ *  THANKS TO DEV TEAM 😇 & @henrygokugt99 ------ hehe 
  **/
