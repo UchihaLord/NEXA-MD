@@ -8,11 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['256789810043', 'NEXA', true], 
-  ['',],
-  ['',], 
-  ['',],
-  ['',],
-  [' ',],
+
   
 ] //Number of owners
 
