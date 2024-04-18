@@ -22,7 +22,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
           mentionedJid: [m.sender],
           externalAdReply: {
           title: "THE NEXA-V1 IS ALIVE 🥱",
-          body: "XLICON BOT",
+          body: "ПΣXΛ ΛI BOT",
           thumbnailUrl: img,
           sourceUrl: 'https://chat.whatsapp.com/LpacbNXvuhqLAr7AZwyU3r',
           mediaType: 1,
