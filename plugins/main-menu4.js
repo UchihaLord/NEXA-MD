@@ -24,7 +24,7 @@ import {
   ➫ .demote (@tag)
   ➫ .infogp
   ➫ .hidetag
-  ➫ .invite <917xxx>
+  ➫ .invite <256xxx>
   ➫ .kick @user
   ➫ .link
   ➫ .poll question|option|option
