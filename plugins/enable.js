@@ -211,41 +211,41 @@ case 'autobio':
 ≡ List of options
 
 ©──『 *ADMIN*』───©
-☑️ *Below are the CMD you can enable*
+✅ *Below are the CMD you can enable*
 NB: _YOU ENABLE IT BY TYPING :EXAMPLE_= #on welcome etc
-🔰 *welcome* :_For welcoming new members_
+📜 *welcome* :_For welcoming new members_
 _________________________
-🔰 *antilink* :_For automatic kicking of members who send gc links_ 
+📜 *antilink* :_For automatic kicking of members who send gc links_ 
 _________________________
-🔰 *hidden*:_only XLicon teams can use_📡
+📜 *hidden*:_only XLicon teams can use_☎️
 _________________________
-🔰  *autosticker* :_Automatically sends stickers if you send picture in gc_
+📜  *autosticker* :_Automatically sends stickers if you send picture in gc_
 _________________________
-🔰 *detect*: _Detection of all enablings_
+📜 *detect*: _Detection of all enablings_
 _________________________
-🔰 *antidelete* : _resends deleted msg_
+📜 *antidelete* : _resends deleted msg_
 _________________________
-🔰 *jarvis* : _Test your self and find out 🤣_
+📜 *jarvis* : _Test your self and find out 🤣_
 _________________________
-🔰 *antispam* : _removes members who spam too much in gc_
+📜 *antispam* : _removes members who spam too much in gc_
 _________________________
-🔰 *antitoxic* : _deleted all toxic words sent by anyone_
+📜 *antitoxic* : _deleted all toxic words sent by anyone_
 ╰──────────⳹ 
 ◈──『 *USERS*』───⳹
-🔰 *autolevelup* : _Automatically levels up exp on user_
-🔰 *chatbot* : _Turns on the chat bot to be able to chat with the bot_
+📜 *autolevelup* : _Automatically levels up exp on user_
+📜 *chatbot* : _Turns on the chat bot to be able to chat with the bot_
 ╰──────────⳹
 ◈──『 *OWNER*』───⳹
-🔰 onlydm : _Can use bot in private msg_
+📜 onlydm : _Can use bot in private msg_
 _________________________
-🔰 *grouponly* :_can use bot in groups only_
+📜 *grouponly* :_can use bot in groups only_
 _________________________
-🔰 *autotype* : ( WA-PRESSENSE) _bot will be typing for no reason if others are chatting in groups or dm were bot is_
+📜 *autotype* : ( WA-PRESSENSE) _bot will be typing for no reason if others are chatting in groups or dm were bot is_
 _________________________
-🔰 *autobio* : _enables  automatic bio of the bot also you will see that bot is running through this_
+📜 *autobio* : _enables  automatic bio of the bot also you will see that bot is running through this_
 _________________________
-__X_L_I_C_O_N_____BOT
-*XLICON-V2* enc-x
+__N_E_X_A_M_D_____BOT
+*NEXA-V1* enc-x
 ╰──────────©
 *📌 Example :*
 *${usedPrefix}on* welcome
