@@ -618,75 +618,75 @@ import {
     const choice = m.text.trim();
     
     if (choice === "1") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/hVFKKb1/2024041510172390.jpg' },
         caption: botmenu
       }, { quoted:fcontact });
       } else if (choice === "2") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/hVFKKb1/2024041510172390.jpg' },
         caption: ownermenu
       }, { quoted:fcontact });
       } else if (choice === "3") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/hVFKKb1/2024041510172390.jpg' },
         caption: groupmenu
       }, { quoted:fcontact });
       } else if (choice === "4") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/hVFKKb1/2024041510172390.jpg' },
         caption: funmenu
       }, { quoted:fcontact });
       } else if (choice === "5") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/hVFKKb1/2024041510172390.jpg' },
         caption: reactmenu
       }, { quoted:fcontact });
       } else if (choice === "6") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/hVFKKb1/2024041510172390.jpg' },
         caption: dlmenu
       }, { quoted:fcontact });
       } else if (choice === "7") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/hVFKKb1/2024041510172390.jpg' },
         caption: groupmenu
       }, { quoted:fcontact });
       } else if (choice === "8") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/hVFKKb1/2024041510172390.jpg' },
         caption: logomenu
       }, { quoted:fcontact });
       } else if (choice === "9") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/hVFKKb1/2024041510172390.jpg' },
         caption: stickermenu
       }, { quoted:fcontact });
       } else if (choice === "10") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/hVFKKb1/2024041510172390.jpg' },
         caption: audiomenu
       }, { quoted:fcontact });
       } else if (choice === "11") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/hVFKKb1/2024041510172390.jpg' },
         caption: newsmenu
       }, { quoted:fcontact });
       } else if (choice === "12") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/hVFKKb1/2024041510172390.jpg' },
         caption: economy
       }, { quoted:fcontact });
       } else if (choice === "13") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/tHmKR9J/2024041422075383.jpg' },
         caption: animemenu
       }, { quoted:fcontact });
       } else if (choice === "14") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/tHmKR9J/2024041422075383.jpg' },
         caption: nsfwmenu
       }, { quoted:fcontact });
       } else if (choice === "15") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/tHmKR9J/2024041422075383.jpg' },
         caption: toolsmenu
       }, { quoted:fcontact });
       } else if (choice === "16") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/tHmKR9J/2024041422075383.jpg' },
         caption: Aimenu
       }, { quoted:fcontact });
       } else if (choice === "17") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/tHmKR9J/2024041422075383.jpg' },
         caption: religionmenu
       }, { quoted:fcontact });
       } else if (choice === "18") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74b32f0d7c0571b2bf5bb.jpg' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/tHmKR9J/2024041422075383.jpg' },
         caption: pluginmenu
       }, { quoted:fcontact });
       } else {
