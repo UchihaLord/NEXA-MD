@@ -7,16 +7,17 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['256789810043', 'NEXA', true], 
+  ['263776951675', 'Ashley', true], 
 
   
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['256789810043', '94789481495', '923184474176','233531910067','233208179431'] 
-global.prems = ['923184070915','233208179431','256789810043', '918360234087','233531910067']
-global.allowed = ['256789810043', '233208179431', '94789481495', '918360234087','233531910067']
+global.mods = ['263776951675', '94789481495', '923184474176','233531910067','263780129060'] 
+global.prems = ['263776951675','233208179431','256789810043', '+263 78 
+                012 9060','233531910067']
+global.allowed = ['263776951675', '233208179431', '94789481495', '918360234087','233531910067']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -51,21 +52,21 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'NEXA-V1'
+global.botname = 'Kakashi-V1'
 global.premium = 'true'
-global.packname = 'NEXA TEAM' 
-global.author = '@NEXA-V1' 
+global.packname = 'KAKASHI TEAM' 
+global.author = '@KAKASHI -V1' 
 global.menuvid = 'https://i.imgur.com/cBRWRFr.mp4'
-global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaWeUY9Jf05hxbJkVW23\n' 
+global.igfg = '▢✓ Follow My channel\channel/0029Vaccm2BDzgTHpikGhz1k \n' 
 global.dygp = 'https://chat.whatsapp.com/LpacbNXvuhqLAr7AZwyU3r'
-global.fgsc = 'https://github.com/henrygokugt99/NEXA-MD' 
+global.fgsc = 'https://github.com/UchihaLord/KAKASHIMD' 
 global.fgyt = 'https://youtube.com/@henrygokugt256'
 global.fgpyp = 'https://youtube.com/@henrygokugt256'
 global.fglog = 'XLICON.jpg' 
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
 
-global.wait = '*🏂 _NEXA IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🏂 _KAKASHI IS LOADING ..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⏳'
 global.dmoji = '📜'
 global.done = '🔓'
